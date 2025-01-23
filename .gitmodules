@@ -1,0 +1,6 @@
+[submodule "ems-frontend"]
+	path = ems-frontend
+	url = https://github.com/ayushvatsa14/ems-frontend.git
+[submodule "ems-backend"]
+	path = ems-backend
+	url = https://github.com/ayushvatsa14/ems-backend.git
